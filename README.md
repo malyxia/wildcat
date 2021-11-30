@@ -14,4 +14,6 @@ print(cat)
 ```
 
 # Add an image
-
+here is a cute spotted woodpecker
+![](photoprofilgit.jpg)
+> this is a quote
